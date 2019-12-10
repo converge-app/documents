@@ -1,0 +1,60 @@
+[submodule "test-users"]
+	path = test-users
+	url = git@github.com:converge-app/test-users.git
+[submodule "cooperation-agreement"]
+	path = cooperation-agreement
+	url = git@github.com:converge-app/cooperation-agreement.git
+[submodule "integration"]
+	path = integration
+	url = git@github.com:converge-app/integration.git
+[submodule "security"]
+	path = security
+	url = git@github.com:converge-app/security.git
+[submodule "software-architecture"]
+	path = software-architecture
+	url = git@github.com:converge-app/software-architecture.git
+[submodule "integrations-test"]
+	path = integrations-test
+	url = git@github.com:converge-app/integrations-test.git
+[submodule "meetings"]
+	path = meetings
+	url = git@github.com:converge-app/meetings.git
+[submodule "systemtests"]
+	path = systemtests
+	url = git@github.com:converge-app/systemtests.git
+[submodule "unit-test"]
+	path = unit-test
+	url = git@github.com:converge-app/unit-test.git
+[submodule "deployment"]
+	path = deployment
+	url = git@github.com:converge-app/deployment.git
+[submodule "software-design"]
+	path = software-design
+	url = git@github.com:converge-app/software-design.git
+[submodule "development-environment"]
+	path = development-environment
+	url = git@github.com:converge-app/development-environment.git
+[submodule "issue-statement"]
+	path = issue-statement
+	url = git@github.com:converge-app/issue-statement.git
+[submodule "system-description"]
+	path = system-description
+	url = git@github.com:converge-app/system-description.git
+[submodule "system-interface"]
+	path = system-interface
+	url = git@github.com:converge-app/system-interface.git
+[submodule "terms"]
+	path = terms
+	url = git@github.com:converge-app/terms.git
+[submodule "research"]
+	path = research
+	url = git@github.com:converge-app/research.git
+[submodule "report"]
+	path = report
+	url = git@github.com:converge-app/report.git
+[submodule "accepttestspecification"]
+	path = accepttestspecification
+	url = git@github.com:converge-app/accepttestspecification.git
+[submodule "requirements-specification"]
+	path = requirements-specification
+	url = git@github.com:converge-app/requirements-specification.git
