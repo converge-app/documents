@@ -67,3 +67,9 @@
 [submodule "diagrams"]
 	path = diagrams
 	url = git@github.com:converge-app/diagrams.git
+[submodule "latex-preamble"]
+	path = latex-preamble
+	url = git@github.com:converge-app/latex-preamble.git
+[submodule "daily-standup"]
+	path = daily-standup
+	url = git@github.com:converge-app/daily-standup.git
