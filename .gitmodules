@@ -64,3 +64,6 @@
 [submodule "process-description"]
 	path = process-description
 	url = git@github.com:converge-app/process-description.git
+[submodule "diagrams"]
+	path = diagrams
+	url = git@github.com:converge-app/diagrams.git
