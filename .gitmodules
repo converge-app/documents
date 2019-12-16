@@ -58,3 +58,9 @@
 [submodule "requirements-specification"]
 	path = requirements-specification
 	url = git@github.com:converge-app/requirements-specification.git
+[submodule "bugs"]
+	path = bugs
+	url = git@github.com:converge-app/bugs.git
+[submodule "process-description"]
+	path = process-description
+	url = git@github.com:converge-app/process-description.git
