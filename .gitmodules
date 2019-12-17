@@ -73,3 +73,6 @@
 [submodule "daily-standup"]
 	path = daily-standup
 	url = git@github.com:converge-app/daily-standup.git
+[submodule "uml-diagrams"]
+	path = uml-diagrams
+	url = git@github.com:converge-app/uml-diagrams.git
