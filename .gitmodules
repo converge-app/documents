@@ -76,3 +76,6 @@
 [submodule "uml-diagrams"]
 	path = uml-diagrams
 	url = git@github.com:converge-app/uml-diagrams.git
+[submodule "auto-accepttest"]
+	path = auto-accepttest
+	url = git@github.com:converge-app/auto-accepttest.git
